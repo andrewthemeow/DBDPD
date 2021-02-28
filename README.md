@@ -14,11 +14,15 @@ This is package where you can install Plugins. DBD.js haves functions but not Pl
 
 1. Pick a plugin from Github, Gitlab or Bitbucket
 2. Type in console :
-  This is for github <github:RepoOwenerName/RepoName#Branch>
-  This is for gitlab <gitlab:RepoOwenerName/RepoName#Branch>
-  This is for bitbucket <bitbucket:RepoOwenerName/RepoName#Branch>
+      This is for github <github:RepoOwenerName/RepoName#Branch>
+      
+      This is for gitlab <gitlab:RepoOwenerName/RepoName#Branch>
+      
+      This is for bitbucket <bitbucket:RepoOwenerName/RepoName#Branch>
+      
   REMOVE <> !!! 
 
 # Installation
 Type : npm install DBDPD
+
 Yarn coming soon
