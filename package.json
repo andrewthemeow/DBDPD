@@ -1,12 +1,12 @@
 {
   "name": "dbdpd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andrewthemeow/DBDPD.git"
   },
-  "description": "Unoffcial package for DBD.js to install plugins. Also DBD.ja haves funtions not Plugins.",
+  "description": "Unoffcial package for DBD.js to install plugins. Also DBD.jas haves funtions not Plugins.",
   "keywords": [
     "download",
     "github",
