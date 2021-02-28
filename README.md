@@ -20,6 +20,8 @@ This is package where you can install Plugins. DBD.js haves functions but not Pl
       
       This is for bitbucket <bitbucket:RepoOwenerName/RepoName#Branch>
       
+      The main brancch that this package looks in is "Master"
+      
   REMOVE <> !!! 
 
 # Installation
