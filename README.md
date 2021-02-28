@@ -14,7 +14,9 @@ This is package where you can install Plugins. DBD.js haves functions but not Pl
 
 1. Pick a plugin from Github, Gitlab or Bitbucket
 2. Make a file :
+
     Code :
+    
       <download('github gitlab bitbucket:owener of repo/repo#my-branch', 'test/tmp', { clone: true }, function (err) {
   console.log(err ? 'Error' : 'Success')
 })>
