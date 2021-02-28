@@ -24,6 +24,8 @@ This is package where you can install Plugins. DBD.js haves functions but not Pl
       
   REMOVE <> !!! 
 
+  Discord server for plugins : https://discord.gg/WxEg2EqxZW
+
 # Installation
 Type : npm install DBDPD
 
