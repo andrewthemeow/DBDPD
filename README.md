@@ -13,12 +13,14 @@ This is package where you can install Plugins. DBD.js haves functions but not Pl
 ## Downloading the plugin.
 
 1. Pick a plugin from Github, Gitlab or Bitbucket
-2. Type in console :
-      This is for github <github:RepoOwenerName/RepoName#Branch>
-      
-      This is for gitlab <gitlab:RepoOwenerName/RepoName#Branch>
-      
-      This is for bitbucket <bitbucket:RepoOwenerName/RepoName#Branch>
+2. Make a file :
+    Code :
+      <download('github gitlab bitbucket:owener of repo/repo#my-branch', 'test/tmp', { clone: true }, function (err) {
+  console.log(err ? 'Error' : 'Success')
+})>
+
+Join our discord server for support https://discord.gg/WxEg2EqxZW
+
       
       The main brancch that this package looks in is "Master"
       
